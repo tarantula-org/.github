@@ -40,7 +40,6 @@
       <td width="50%" valign="top" align="center">
         <h3 align="center">📜 Standards & Ops</h3>
         <a href="https://github.com/tarantula-org/.github/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Standard-ASC--1.2-F05032?style=flat&logo=gitbook&logoColor=white" alt="ASC-1.2" /></a>
-        <a href="https://github.com/tarantula-org/.github/blob/main/SECURITY.md"><img src="https://img.shields.io/badge/Security-Policy-success?style=flat&logo=security&logoColor=white" alt="Security" /></a>
         <br>
         <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
         <img src="https://img.shields.io/badge/License-MPL_2.0-black?style=flat&logo=mozilla&logoColor=white" alt="MPL 2.0" />
