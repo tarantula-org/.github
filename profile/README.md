@@ -17,8 +17,6 @@
   <br>
   <p width="600px">
     We are a multidisciplinary studio building <strong>high-performance systems</strong> and <strong>interactive media</strong>. 
-    <br><br>
-    Our work is founded on <strong>open-source technology</strong> and governed by the <a href="https://github.com/tarantula-org/.github/blob/main/CONTRIBUTING.md"><strong>ASC-1.2 Standard</strong></a> to ensure architectural integrity, safety, and rigor.
   </p>
 </div>
 
