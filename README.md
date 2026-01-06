@@ -7,25 +7,18 @@
   
   <br>
 
-  <a href="https://github.com/tarantula-org/camelot">
-    <img src="https://img.shields.io/badge/Core_Tech-Camelot_Kernel-white?style=for-the-badge&logo=c&logoColor=black" alt="Camelot Kernel" />
-  </a>
-  <a href="https://github.com/tarantula-org/projects/1">
-    <img src="https://img.shields.io/badge/Roadmap-View_Board-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap" />
-  </a>
-  <a href="mailto:tarantula.tech@atomicmail.io">
-    <img src="https://img.shields.io/badge/Contact-Atomic_Mail-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact" />
-  </a>
+  <a href="https://github.com/tarantula-org/camelot"><img src="https://img.shields.io/badge/Core_Tech-Camelot_Kernel-white?style=for-the-badge&logo=c&logoColor=black" alt="Camelot Kernel" /></a>&nbsp;<a href="https://github.com/orgs/tarantula-org/projects/1"><img src="https://img.shields.io/badge/Roadmap-View_Board-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap" /></a>&nbsp;<a href="mailto:tarantula.tech@atomicmail.io"><img src="https://img.shields.io/badge/Contact-Atomic_Mail-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact" /></a>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=Mission&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Mission" />
+  <br>
   <p width="600px">
     We are a multidisciplinary studio building <strong>high-performance systems</strong> and <strong>interactive media</strong>. 
     <br><br>
-    Our work is founded on <strong>foundational open-source technology</strong> and governed by the <a href="https://github.com/TarantulaTech/camelot/blob/main/CONTRIBUTING.md"><strong>Avant Systems Canon (ASC-1.2)</strong></a> to ensure architectural integrity, safety, and rigor.
+    Our work is founded on <strong>foundational open-source technology</strong> and governed by the <a href="https://github.com/tarantula-org/camelot/blob/main/CONTRIBUTING.md"><strong>Avant Systems Canon (ASC-1.2)</strong></a> to ensure architectural integrity, safety, and rigor.
   </p>
 </div>
 
@@ -38,14 +31,10 @@
     <tr>
       <td width="50%" valign="top" align="center">
         <h3 align="center">🏗️ Systems & Interactive</h3>
-        <a href="https://github.com/tarantula-org/camelot">
-          <img src="https://img.shields.io/badge/Camelot-Kernel-000000?style=flat&logo=c&logoColor=white" alt="Camelot" />
-        </a>
+        <a href="https://github.com/tarantula-org/camelot"><img src="https://img.shields.io/badge/Camelot-Kernel-000000?style=flat&logo=c&logoColor=white" alt="Camelot" /></a>
         <img src="https://img.shields.io/badge/Standard-C23-00599C?style=flat&logo=c&logoColor=white" alt="C23" />
         <br>
-        <a href="https://odin-lang.org/">
-          <img src="https://img.shields.io/badge/Lang-Odin-1E90FF?style=flat&logo=odin&logoColor=white" alt="Odin" />
-        </a>
+        <a href="https://odin-lang.org/"><img src="https://img.shields.io/badge/Lang-Odin-1E90FF?style=flat&logo=odin&logoColor=white" alt="Odin" /></a>
         <img src="https://img.shields.io/badge/Render-Raylib-black?style=flat&logo=cplusplus&logoColor=white" alt="Raylib" />
         <br>
         <img src="https://img.shields.io/badge/UI-GTK_4-7C3AED?style=flat&logo=gtk&logoColor=white" alt="GTK" />
@@ -53,12 +42,8 @@
       </td>
       <td width="50%" valign="top" align="center">
         <h3 align="center">📜 Governance & Ops</h3>
-        <a href="https://github.com/tarantula-org/camelot/blob/main/CONTRIBUTING.md">
-          <img src="https://img.shields.io/badge/Canon-ASC--1.2-F05032?style=flat&logo=gitbook&logoColor=white" alt="ASC-1.2" />
-        </a>
-        <a href="https://github.com/tarantula-org/camelot/blob/main/SECURITY.md">
-          <img src="https://img.shields.io/badge/Security-Strict_Policy-success?style=flat&logo=security&logoColor=white" alt="Security" />
-        </a>
+        <a href="https://github.com/tarantula-org/camelot/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Canon-ASC--1.2-F05032?style=flat&logo=gitbook&logoColor=white" alt="ASC-1.2" /></a>
+        <a href="https://github.com/tarantula-org/camelot/blob/main/SECURITY.md"><img src="https://img.shields.io/badge/Security-Strict_Policy-success?style=flat&logo=security&logoColor=white" alt="Security" /></a>
         <br>
         <img src="https://img.shields.io/badge/CI%2FCD-The_Automaton-2088FF?style=flat&logo=githubactions&logoColor=white" alt="Automaton" />
         <img src="https://img.shields.io/badge/License-MPL_2.0-black?style=flat&logo=mozilla&logoColor=white" alt="MPL 2.0" />
