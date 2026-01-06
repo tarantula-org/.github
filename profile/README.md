@@ -18,7 +18,7 @@
   <p width="600px">
     We are a multidisciplinary studio building <strong>high-performance systems</strong> and <strong>interactive media</strong>. 
     <br><br>
-    [cite_start]We are currently executing a strategic pivot to software to establish the technical and capital foundation required for our long-term <strong>hardware architecture</strong> goals. [cite: 3, 27]
+    [cite_start]We are currently executing a strategic pivot to software to establish the technical and capital foundation required for our long-term <strong>hardware architecture</strong> goals.
   </p>
 </div>
 
