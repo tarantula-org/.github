@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Tarantula%20Tech&fontSize=85&animation=fadeIn&fontAlignY=78&desc=Formalize%20the%20Architecture%20%E2%80%A2%20Own%20the%20Machine&descAlignY=93&descAlign=50&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Tarantula%20&fontSize=85&animation=fadeIn&fontAlignY=78&desc=Formalize%20the%20Architecture%20%E2%80%A2%20Own%20the%20Machine&descAlignY=93&descAlign=50&fontColor=ffffff" alt="Header" />
   
   <a href="https://github.com/tarantula-org">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Systems+Engineering+%26+Interactive+Media;Strict+Governance+%7C+ASC-1.2+Compliant;Open+Source+Infrastructure" alt="Typing SVG" />
