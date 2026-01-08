@@ -7,7 +7,7 @@
   
   <br>
 
-  <a href="https://github.com/orgs/tarantula-org/projects/1"><img src="https://img.shields.io/badge/Roadmap-View_Board-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap" /></a>&nbsp;<a href="mailto:tarantula.tech@atomicmail.io"><img src="https://img.shields.io/badge/Contact-Email_Us-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact" /></a>
+  <a href="https://github.com/orgs/tarantula-org/projects/1"><img src="https://img.shields.io/badge/Roadmap-View_Board-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap" /></a>
 </div>
 
 <br>
@@ -43,6 +43,25 @@
         <br>
         <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
         <img src="https://img.shields.io/badge/License-MPL_2.0-black?style=flat&logo=mozilla&logoColor=white" alt="MPL 2.0" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=Network&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Network" />
+  <br>
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <h3 align="center">📬 Contact</h3>
+        <a href="mailto:tarantula.tech@atomicmail.io"><img src="https://img.shields.io/badge/Contact-Email_Us-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact" /></a>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3 align="center">🌐 Socials</h3>
+        <a href="https://discord.gg/ndZdYbzVGP"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
       </td>
     </tr>
   </table>
