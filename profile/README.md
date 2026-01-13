@@ -30,19 +30,24 @@
   <table border="0" width="100%">
     <tr>
       <td width="50%" valign="top" align="center">
-        <h3 align="center">🏗️ Systems & Interactive</h3>
+        <h3 align="center">🏗️ Systems & Core</h3>
         <a href="https://odin-lang.org/"><img src="https://img.shields.io/badge/Odin-1E90FF?style=flat&logo=odin&logoColor=white" alt="Odin" /></a>
-        <img src="https://img.shields.io/badge/Raylib-black?style=flat&logo=cplusplus&logoColor=white" alt="Raylib" />
-        <br>
         <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/GTK4-7C3AED?style=flat&logo=gtk&logoColor=white" alt="GTK4" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+        <br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
       </td>
       <td width="50%" valign="top" align="center">
-        <h3 align="center">📜 Standards & Ops</h3>
-        <a href="https://github.com/tarantula-org/.github/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/ASC_1.2-F05032?style=flat&logo=gitbook&logoColor=white" alt="ASC 1.2" /></a>
+        <h3 align="center">🎨 Interactive & Ops</h3>
+        <img src="https://img.shields.io/badge/Raylib-FFFFFF?style=flat&logo=raylib&logoColor=black" alt="Raylib" />
+        <img src="https://img.shields.io/badge/GTK4-7C3AED?style=flat&logo=gtk&logoColor=white" alt="GTK4" />
+        <img src="https://img.shields.io/badge/Dioxus-E94D33?style=flat&logo=dioxus&logoColor=white" alt="Dioxus" />
         <br>
+        <br>
+        <a href="https://github.com/tarantula-org/.github/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/ASC_1.2-F05032?style=flat&logo=gitbook&logoColor=white" alt="ASC 1.2" /></a>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/MPL_2.0-black?style=flat&logo=mozilla&logoColor=white" alt="MPL 2.0" />
       </td>
     </tr>
   </table>
