@@ -25,25 +25,20 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=Arsenal&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Arsenal" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=Technology%20Stack&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Technology Stack" />
   <br>
-  <a href="https://odin-lang.org/"><img src="https://img.shields.io/badge/Odin-1E90FF?style=flat&logo=odin&logoColor=white" alt="Odin" /></a>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
   
-  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,c,rust,bash,html,css,githubactions&theme=dark" alt="Core Tech" />
+  </a>
+  
+  <br><br>
 
+  <a href="https://odin-lang.org/"><img src="https://img.shields.io/badge/Odin-1E90FF?style=flat&logo=odin&logoColor=white" alt="Odin" /></a>
   <img src="https://img.shields.io/badge/Raylib-FFFFFF?style=flat&logo=raylib&logoColor=black" alt="Raylib" />
   <img src="https://img.shields.io/badge/GTK4-7C3AED?style=flat&logo=gtk&logoColor=white" alt="GTK4" />
-  <img src="https://img.shields.io/badge/🧬_Dioxus-E94D33?style=flat" alt="Dioxus" />
-  
-  <br>
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Dioxus-E94D33?style=flat&logo=dna&logoColor=white" alt="Dioxus" />
   <a href="https://github.com/tarantula-org/.github/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/ASC_1.2-F05032?style=flat&logo=gitbook&logoColor=white" alt="ASC 1.2" /></a>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 
 </div>
 
