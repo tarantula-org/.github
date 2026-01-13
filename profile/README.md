@@ -31,18 +31,18 @@
     <tr>
       <td width="50%" valign="top" align="center">
         <h3 align="center">🏗️ Systems & Interactive</h3>
-        <a href="https://odin-lang.org/"><img src="https://img.shields.io/badge/Lang-Odin-1E90FF?style=flat&logo=odin&logoColor=white" alt="Odin" /></a>
-        <img src="https://img.shields.io/badge/Render-Raylib-black?style=flat&logo=cplusplus&logoColor=white" alt="Raylib" />
+        <a href="https://odin-lang.org/"><img src="https://img.shields.io/badge/Odin-1E90FF?style=flat&logo=odin&logoColor=white" alt="Odin" /></a>
+        <img src="https://img.shields.io/badge/Raylib-black?style=flat&logo=cplusplus&logoColor=white" alt="Raylib" />
         <br>
-        <img src="https://img.shields.io/badge/Standard-C23-00599C?style=flat&logo=c&logoColor=white" alt="C23" />
-        <img src="https://img.shields.io/badge/UI-GTK_4-7C3AED?style=flat&logo=gtk&logoColor=white" alt="GTK" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/GTK4-7C3AED?style=flat&logo=gtk&logoColor=white" alt="GTK4" />
       </td>
       <td width="50%" valign="top" align="center">
         <h3 align="center">📜 Standards & Ops</h3>
-        <a href="https://github.com/tarantula-org/.github/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Standard-ASC--1.2-F05032?style=flat&logo=gitbook&logoColor=white" alt="ASC-1.2" /></a>
+        <a href="https://github.com/tarantula-org/.github/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/ASC_1.2-F05032?style=flat&logo=gitbook&logoColor=white" alt="ASC 1.2" /></a>
         <br>
-        <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/License-MPL_2.0-black?style=flat&logo=mozilla&logoColor=white" alt="MPL 2.0" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/MPL_2.0-black?style=flat&logo=mozilla&logoColor=white" alt="MPL 2.0" />
       </td>
     </tr>
   </table>
