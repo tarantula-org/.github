@@ -39,18 +39,9 @@
 <div align="center">
   <h2>Technology Stack</h2>
   <br>
-  <table border="0" width="100%">
-    <tr align="center">
-      <td width="33%"><b>SYSTEMS & CORE</b></td>
-      <td width="33%"><b>INTERACTIVE & ART</b></td>
-      <td width="33%"><b>INFRASTRUCTURE</b></td>
-    </tr>
-    <tr align="center">
-      <td valign="top"><a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" /></a><br><a href="https://open-std.org/jtc1/sc22/wg14/"><img src="https://img.shields.io/badge/C23-18181b?style=for-the-badge&logo=c&logoColor=white" /></a><br><a href="https://odin-lang.org/"><img src="https://img.shields.io/badge/Odin-18181b?style=for-the-badge&logo=odin&logoColor=white" /></a></td>
-      <td valign="top"><a href="https://godotengine.org/"><img src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" /></a><br><a href="https://dioxuslabs.com/"><img src="https://img.shields.io/badge/Dioxus-18181b?style=for-the-badge&logo=rust&logoColor=white" /></a><br><a href="https://www.raylib.com/"><img src="https://img.shields.io/badge/Raylib-18181b?style=for-the-badge&logo=c&logoColor=white" /></a></td>
-      <td valign="top"><a href="https://nixos.org/"><img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" /></a><br><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a><br><a href="https://tailscale.com/"><img src="https://img.shields.io/badge/Tailscale-18181b?style=for-the-badge&logo=tailscale&logoColor=white" /></a></td>
-    </tr>
-  </table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,odin,godot,react,linux,docker,bash,vim,blender,git,githubactions&perline=6&theme=dark" alt="Tech Stack Grid" />
+  </a>
 </div>
 
 <br>
@@ -58,20 +49,24 @@
 <br>
 
 <div align="center">
-  <h2>Network & Contact</h2>
+  <h2>Contact</h2>
   <br>
-  <table border="0" width="100%">
-    <tr align="center">
-      <td width="33%"><b>COMMUNITY CHAT</b></td>
-      <td width="33%"><b>MEDIA & UPDATES</b></td>
-      <td width="33%"><b>OFFICIAL</b></td>
-    </tr>
-    <tr align="center">
-      <td valign="top"><a href="https://discord.gg/ndZdYbzVGP"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a><br><a href="https://stt.gg/VmbqHGzP"><img src="https://img.shields.io/badge/Stoat-18181b?style=for-the-badge" /></a></td>
-      <td valign="top"><a href="https://bsky.app/profile/tarantulatech.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" /></a><br><a href="https://mastodon.social/@tarantula_tech"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" /></a><br><a href="https://www.youtube.com/@tarantulatech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><br><a href="https://fairplay.video/channel/tarantulatech"><img src="https://img.shields.io/badge/FairPlay-0088cc?style=for-the-badge&logo=peertube&logoColor=white" /></a></td>
-      <td valign="top"><a href="https://github.com/tarantula-org"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br><a href="mailto:tarantula.tech@atomicmail.io"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white" /></a></td>
-    </tr>
-  </table>
+  
+  <a href="https://discord.gg/ndZdYbzVGP"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://stt.gg/VmbqHGzP"><img src="https://img.shields.io/badge/Stoat-18181b?style=for-the-badge" /></a>
+  <a href="https://github.com/tarantula-org"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
+  <br><br>
+
+  <a href="https://bsky.app/profile/tarantulatech.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+  <a href="https://mastodon.social/@tarantula_tech"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@tarantulatech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://fairplay.video/channel/tarantulatech"><img src="https://img.shields.io/badge/FairPlay-0088cc?style=for-the-badge&logo=peertube&logoColor=white" /></a>
+  
+  <br><br>
+
+  <a href="mailto:tarantula.tech@atomicmail.io"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+
 </div>
 
 <br>
