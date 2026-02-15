@@ -42,22 +42,54 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=header&text=Technology%20Stack&fontSize=25&fontColor=ffffff&fontAlignY=50" alt="Technology Stack" />
   <br>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,godot,linux&theme=dark" alt="Core Languages" />
-  </a>
-  
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Lang-Odin-1E90FF?style=for-the-badge&logo=odin&logoColor=white" alt="Odin" />
-  <img src="https://img.shields.io/badge/Standard-C23-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C23" />
-  <img src="https://img.shields.io/badge/Web-Dioxus-E94D33?style=for-the-badge&logo=rust&logoColor=white" alt="Dioxus" />
-
-  <br><br>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nix,docker,bash,githubactions,vim,blender&theme=dark" alt="Infra" />
-  </a>
-
+  <table border="0" width="100%">
+    <tr align="center">
+        <td><strong>SYSTEMS & CORE</strong></td>
+        <td><strong>INTERACTIVE & WEB</strong></td>
+        <td><strong>INFRASTRUCTURE</strong></td>
+    </tr>
+    <tr align="center">
+        <td valign="top">
+            <a href="https://www.rust-lang.org/">
+                <img src="https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" />
+            </a>
+            <br>
+            <a href="https://open-std.org/jtc1/sc22/wg14/">
+                <img src="https://img.shields.io/badge/C23-18181b?style=for-the-badge&logo=c&logoColor=white" />
+            </a>
+            <br>
+            <a href="https://odin-lang.org/">
+                <img src="https://img.shields.io/badge/Odin-18181b?style=for-the-badge&logo=odin&logoColor=white" />
+            </a>
+        </td>
+        <td valign="top">
+             <a href="https://godotengine.org/">
+                <img src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+            </a>
+            <br>
+            <a href="https://dioxuslabs.com/">
+                <img src="https://img.shields.io/badge/Dioxus-18181b?style=for-the-badge&logo=rust&logoColor=white" />
+            </a>
+             <br>
+            <a href="https://www.raylib.com/">
+                <img src="https://img.shields.io/badge/Raylib-18181b?style=for-the-badge&logo=c&logoColor=white" />
+            </a>
+        </td>
+        <td valign="top">
+            <a href="https://nixos.org/">
+                <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+            </a>
+            <br>
+            <a href="https://www.docker.com/">
+                <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+            </a>
+            <br>
+            <a href="https://tailscale.com/">
+                <img src="https://img.shields.io/badge/Tailscale-18181b?style=for-the-badge&logo=tailscale&logoColor=white" />
+            </a>
+        </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -100,6 +132,7 @@
 
 <br>
 <br>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" alt="Footer" />
 </div>
