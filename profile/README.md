@@ -31,12 +31,10 @@
 <br>
 
 <div align="center">
-  <h2>Technology Stack</h2>
+  <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,odin,godot,linux,docker,bash,git,githubactions&perline=10&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=rust,c,godot,linux,docker,bash,git,githubactions&perline=10&theme=dark" alt="Tech Stack" />
   </a>
-  <br>
-  <img src="https://img.shields.io/badge/Web-Dioxus-E94D33?style=for-the-badge&logo=rust&logoColor=white" alt="Dioxus" />
 </div>
 
 <br>
