@@ -23,8 +23,8 @@
   
   | **Project** | **Domain** | **Stack** |
   | :--- | :--- | :--- |
-  | **[Camelot](https://github.com/tarantula-org/camelot)** | Hardened C23 Standard Library | `C23` `Assembly` |
-  | **[URCHIN](https://github.com/tarantula-org/urchin)** | TPI Consensus Engine | `Rust` `Tokio` |
+  | **[Camelot](https://github.com/tarantula-org/camelot)** | Hardened C23 Standard Library | `C` |
+  | **[URCHIN](https://github.com/tarantula-org/urchin)** | TPI Consensus Engine | `Rust` |
   | **[Macpronix](https://github.com/tarantula-org/macpronix)** | Legacy Hardware Infrastructure | `NixOS` `Bash` |
 </div>
 
