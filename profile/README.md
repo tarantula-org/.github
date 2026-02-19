@@ -9,7 +9,7 @@
   <br>
 
   <p width="600px">
-    We are a multidisciplinary studio building <strong>games</strong>, <strong>engines</strong>, and <strong>hardware</strong>. We write our own allocators, audit our own kernels, and fund our physics R&D by shipping commercial software.
+    We are a multidisciplinary studio building <strong>games</strong>, <strong>engines</strong>, and <strong>hardware</strong>. We engineer systems from first principles—writing custom allocators, auditing kernels, and funding long-term hardware R&D by shipping commercial interactive media.
   </p>
   
   <a href="https://github.com/orgs/tarantula-org/projects/1"><img src="https://img.shields.io/badge/Roadmap-View_Board-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Roadmap" /></a>
@@ -19,13 +19,13 @@
 <br>
 
 <div align="center">
-  <h2>Active Cycles</h2>
+  <h2>Strategic Domains</h2>
   
-  | **Project** | **Domain** | **Stack** |
+  | **Domain** | **Operational Intent** | **Focus Areas** |
   | :--- | :--- | :--- |
-  | **[Camelot](https://github.com/tarantula-org/camelot)** | Hardened C23 Standard Library | `C` |
-  | **[URCHIN](https://github.com/tarantula-org/urchin)** | TPI Consensus Engine | `Rust` |
-  | **[Macpronix](https://github.com/tarantula-org/macpronix)** | Legacy Hardware Infrastructure | `NixOS` `Bash` |
+  | **Systems & Infrastructure** | Architecting high-assurance, foundational software to remove reliance on black-box tools. | Hardened Runtimes, Memory Allocators, Consensus Protocols |
+  | **Interactive Media** | Executing rapid commercial releases to validate engine architecture and secure R&D capital. | Game Development, Engine Tooling, Rendering Pipelines |
+  | **Hardware & Operations** | Maintaining robust physical infrastructure in preparation for comprehensive embedded hardware integration. | Legacy Hardware Integration, NixOS, Systems Administration |
 </div>
 
 <br>
