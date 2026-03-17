@@ -9,23 +9,11 @@
   <br>
 
   <p width="600px">
-    We are a multidisciplinary studio building <strong>games</strong>, <strong>engines</strong>, and <strong>hardware</strong>. We engineer systems from first principles—writing custom allocators, auditing kernels, and funding long-term hardware R&D by shipping commercial interactive media.
+    We are an organization in a <strong>pre-revenue</strong> phase focused on software, games, and hardware.
   </p>
   
   <a href="https://github.com/orgs/tarantula-org/projects/1"><img src="https://img.shields.io/badge/Kanban-View_Global-00599C?style=for-the-badge&logo=github&logoColor=white" alt="Global" /></a>
 
-</div>
-
-<br>
-
-<div align="center">
-  <h2>Strategic Domains</h2>
-  
-  | **Domain** | **Operational Intent** | **Focus Areas** |
-  | :--- | :--- | :--- |
-  | **Systems & Infrastructure** | Architecting high-assurance, foundational software to remove reliance on black-box tools. | Hardened Runtimes, Memory Allocators, Consensus Protocols |
-  | **Interactive Media** | Executing rapid commercial releases to validate engine architecture and secure R&D capital. | Game Development, Engine Tooling, Rendering Pipelines |
-  | **Hardware & Operations** | Maintaining robust physical infrastructure in preparation for comprehensive embedded hardware integration. | Legacy Hardware Integration, NixOS, Systems Administration |
 </div>
 
 <br>
