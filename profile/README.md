@@ -29,7 +29,7 @@
   <h2>Contact</h2>
   
   <a href="https://bsky.app/profile/yutila.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@yutila"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@yutila_org"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://fairplay.video/channel/yutila"><img src="https://img.shields.io/badge/FairPlay-0088cc?style=for-the-badge&logo=peertube&logoColor=white" /></a>
   <a href="mailto:yutila@atomicmail.io"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 
