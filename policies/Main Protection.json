@@ -2,9 +2,9 @@
   "required_status_checks": {
     "strict": true,
     "contexts": [
-      "sast-semgrep",
-      "sbom-generation",
-      "secret-scanning"
+      "semgrep",
+      "syft",
+      "gitleaks"
     ]
   },
   "enforce_admins": true,
