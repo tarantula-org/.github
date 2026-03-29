@@ -1,25 +1,18 @@
-name: SAST
+name: Semgrep
 
 on:
   workflow_call:
 
 jobs:
-  semgrep-scan:
-    name: Semgrep Analysis
+  semgrep:
+    name: Semgrep
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Run Semgrep
-        uses: semgrep/action@v1
+      - name: Scan
+        uses: returntocorp/semgrep-action@v1
         with:
           config: "p/default"
           generateSarif: "1"
-        
-      # Optional: If enabling GitHub Advanced Security later, 
-      # uncomment this to push results to the GitHub Security tab.
-      # - name: Upload SARIF file
-      #   uses: github/codeql-action/upload-sarif@v3
-      #   with:
-      #     sarif_file: semgrep.sarif
