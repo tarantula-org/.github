@@ -6,6 +6,10 @@ on:
   pull_request:
     branches: [ "main" ]
 
+permissions:
+  contents: read
+  security-events: write
+
 jobs:
   trivy:
     uses: yutila-org/.github/.github/workflows/trivy.yml@main
