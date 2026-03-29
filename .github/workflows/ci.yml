@@ -11,7 +11,7 @@ jobs:
     uses: yutila-org/.github/.github/workflows/semgrep.yml@main
     
   sbom-generation:
-    uses: yutila-org/.github/.github/workflows/sbom-syft.yml@main
+    uses: yutila-org/.github/.github/workflows/sbom.yml@main
     with:
       target-path: '.'
 
