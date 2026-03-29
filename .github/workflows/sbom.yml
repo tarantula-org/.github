@@ -1,4 +1,4 @@
-name: SBOM
+name: sbom
 
 on:
   workflow_call:
@@ -10,9 +10,10 @@ on:
         default: '.'
 
 jobs:
-  syft:
-    name: Syft
+  sbom:
+    name: sbom
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4

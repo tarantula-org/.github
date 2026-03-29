@@ -1,4 +1,4 @@
-name: Continuous Integration
+name: CI
 
 on:
   push:
@@ -10,10 +10,10 @@ jobs:
   semgrep:
     uses: yutila-org/.github/.github/workflows/semgrep.yml@main
     
-  syft:
+  sbom:
     uses: yutila-org/.github/.github/workflows/sbom.yml@main
     with:
       target-path: '.'
 
-  gitleaks:
+  secret-scan:
     uses: yutila-org/.github/.github/workflows/secret-scan.yml@main

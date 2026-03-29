@@ -1,12 +1,13 @@
-name: Semgrep
+name: semgrep
 
 on:
   workflow_call:
 
 jobs:
   semgrep:
-    name: Semgrep
+    name: semgrep
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
