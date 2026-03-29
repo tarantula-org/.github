@@ -10,7 +10,7 @@ jobs:
   semgrep:
     uses: yutila-org/.github/.github/workflows/semgrep.yml@main
     
-  syft:
+  sbom:
     uses: yutila-org/.github/.github/workflows/sbom.yml@main
     with:
       target-path: '.'
