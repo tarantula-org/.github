@@ -3,8 +3,8 @@
     "strict": true,
     "contexts": [
       "semgrep",
-      "syft",
-      "gitleaks"
+      "sbom",
+      "secrets"
     ]
   },
   "enforce_admins": true,
