@@ -11,23 +11,23 @@
 <!-- List all specific problems, challenges, or requirements this design aims to address. Each problem must correspond to one or more solutions detailed in Section 3. -->
 
 ### Problem: [Name of the problem]
-*   **Statement:** [Clearly define the problem, including the context in which it occurs and why a new solution is necessary.]
-*   **Solutions:** [Link to all the proposed solutions for this problem that are included in the same document.]
+-   **Statement:** [Clearly define the problem, including the context in which it occurs and why a new solution is necessary.]
+-   **Solutions:** [Link to all the proposed solutions for this problem that are included in the same document.]
 
 ## 3. Proposed Solutions
 <!-- Detail the proposed solutions for the problems identified in Section 2. Each solution should clearly reference the problem(s) it addresses and will be linked to specific implementation tasks in Section 4. -->
 
 ### Solution: [Name of the solution]
-*   **Statement:** [Clearly define the solution.]
-*   **Security & Privacy:** [Define how this solution adheres to the Security Policies (e.g., encryption at rest, least privilege).]
-*   **Implementations:** [Link to all the proposed implementations for this solution that are included in the same document.]
+-   **Statement:** [Clearly define the solution.]
+-   **Security & Privacy:** [Define how this solution adheres to the Security Policies (e.g., encryption at rest, least privilege).]
+-   **Implementations:** [Link to all the proposed implementations for this solution that are included in the same document.]
 
 ## 4. Implementation Details
 <!-- Outline the detailed plan for implementing each proposed solution, including technical specifications, affected components, and required steps. -->
 
 ### Implementation: [Name of the implementation]
-*   **Security & Privacy:** [Specify the exact security controls (e.g., TLS 1.3, Ed25519 signatures) or privacy safeguards (e.g., PII anonymization) for this component.]
-*   **Verification:** [Link to all the proposed tests for this implementation that are included in the same document.]
+-   **Security & Privacy:** [Specify the exact security controls (e.g., TLS 1.3, Ed25519 signatures) or privacy safeguards (e.g., PII anonymization) for this component.]
+-   **Verification:** [Link to all the proposed tests for this implementation that are included in the same document.]
 
 **Description:** [Detailed description of the proposed implementation for the solution.]
 
