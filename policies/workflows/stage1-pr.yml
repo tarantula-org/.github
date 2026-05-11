@@ -1,0 +1,21 @@
+name: Stage 1 (Commit/PR)
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  secret-scan:
+    uses: ./.github/workflows/secret-scan.yml
+
+  # lint:
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: read
+  #   steps:
+  #     - name: Checkout Repository
+  #       uses: actions/checkout@v4
+  #     - name: Run Hadolint
+  #       run: echo "Hadolint logic here"
+  #     - name: Run Detekt
+  #       run: echo "Detekt logic here"

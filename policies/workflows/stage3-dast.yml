@@ -1,0 +1,28 @@
+name: Stage 3 (Asynchronous DAST)
+
+on:
+  workflow_call:
+    inputs:
+      target_url:
+        required: true
+        type: string
+
+jobs:
+  dast:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ZAP Scan
+        uses: zaproxy/action-full-scan@v0.12.0
+        with:
+          target: ${{ inputs.target_url }}
+          cmd_options: '-j'
+
+      - name: Upload ZAP Reports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: zap-reports
+          path: |
+            zap_report.html
+            zap_report.json
+            zap_report.md

@@ -2,9 +2,9 @@
   "required_status_checks": {
     "strict": true,
     "contexts": [
+      "stage1-pr",
       "trivy",
-      "sbom",
-      "secret-scan"
+      "sbom"
     ]
   },
   "enforce_admins": true,
