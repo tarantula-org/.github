@@ -5,20 +5,11 @@
   <br>
 
   <p width="600px">
-    We are an organization in a <strong>pre-revenue</strong> phase focused on software, games, and hardware.
+    We are an organization in a <strong>pre-revenue</strong> phase focused on software, games and hardware.
   </p>
 
-  <a href="https://yutila.com/"><img src="https://img.shields.io/badge/Website-ff5500?style=for-the-badge&logo=cloudflare&logoColor=white" height="36" /></a> <a href="https://opencollective.com/yutila"><img src="https://img.shields.io/badge/Open%20Collective-2B8AC4?style=for-the-badge&logo=opencollective&logoColor=white" /></a>
+  <a href="https://yutila.com/"><img src="https://img.shields.io/badge/Website-ff5500?style=for-the-badge&logo=cloudflare&logoColor=white" height="36" /></a> <a href="https://opencollective.com/yutila"><img src="https://img.shields.io/badge/Open%20Collective-2B8AC4?style=for-the-badge&logo=opencollective&logoColor=white" /></a> <a href="https://liberapay.com/yutila/"><img src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" /></a>
   
-</div>
-
-<br>
-
-<div align="center">
-  <h2>Tech Stack</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,godot,linux,docker,bash&perline=10&theme=dark" alt="Tech Stack" />
-  </a>
 </div>
 
 <br>

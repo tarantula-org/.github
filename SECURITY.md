@@ -1,3 +1,9 @@
+---
+layout: ../../layouts/MarkdownLayout.astro
+title: "Security Policies"
+lastEdited: "29/5/2026"
+---
+
 # **1. Introduction and Scope**
 
 This document establishes the security governance policy for all operations within the organization.
@@ -62,7 +68,7 @@ In the event of a security anomaly, personnel are required to follow the establi
 
 ## **3.4. Coordinated Vulnerability Disclosure (CVD)**
 
-All external vulnerability reports must be submitted using the built-in GitHub feature for reporting security vulnerabilities (Private Vulnerability Reporting). Alternatively, reports can be submitted directly via email to yutila@atomicmail.io. 
+All external vulnerability reports must be submitted using the built-in GitHub feature for reporting security vulnerabilities (Private Vulnerability Reporting). Alternatively, reports can be submitted directly via email to secops@yutila.com. 
 The SecOps Director will validate the report and establish a secure communication channel with the researcher.
 We adhere to a strict 90-day deadline policy. If a reported vulnerability is not fixed within 90 days of the initial report, the researcher is permitted to publicly disclose it. Once a vulnerability is fixed, it is free to be publicly disclosed immediately.
 Patches must be developed in an embargoed, private environment. Public disclosure and security advisories will only be published simultaneously with the deployment of the remediated release or after the 90-day deadline expires.
@@ -97,7 +103,7 @@ All software development must utilize a CI/CD pipeline that is configured to enf
 
 1. **Automated Builds and Testing:** The pipeline must automatically retrieve the latest source code, compile the application, and execute all mandatory Unit, Integration, SAST, and DAST tests.
 2. **Dependency Vulnerability Scanning:** All third-party libraries and dependencies used in the project must be scanned for known vulnerabilities (e.g., against CVE databases).
-3. **Mandatory Pass/Fail Enforcement:** The pipeline must automatically FAIL and block deployment if tests do not pass or if High/Critical vulnerabilities are detected, *unless a formal Vulnerability Waiver and risk-acceptance justification is documented and approved by the Security Policy Officer.*
+3. **Mandatory Pass/Fail Enforcement:** The pipeline must automatically FAIL and block deployment if tests do not pass or if High/Critical vulnerabilities are detected, *unless a formal Vulnerability Waiver and risk-acceptance justification is documented and approved by the SecOps Director.*
 
 ## **4.3. Security Orchestration, Automation, and Response (SOAR)**
 
@@ -112,7 +118,7 @@ To provide continuous visibility and threat remediation, the organization relies
 
 For all software classified as games or entertainment products, the following security measures are mandatory:
 
-- **Anti-Tamper & Anti-Cheat:** All multiplayer games must implement and maintain industry-standard anti-cheat and anti-tamper technologies. These solutions must be reviewed by the **Security Policy Officer** and subjected to adversarial validation. Validation may be conducted via internal red-teaming, structural review, or a closed-beta Coordinated Vulnerability Disclosure (CVD) process prior to any public release.
+- **Anti-Tamper & Anti-Cheat:** All multiplayer games must implement and maintain industry-standard anti-cheat and anti-tamper technologies. These solutions must be reviewed by the **SecOps Director** and subjected to adversarial validation. Validation may be conducted via internal red-teaming, structural review, or a closed-beta Coordinated Vulnerability Disclosure (CVD) process prior to any public release.
 - **Secure Backend Systems:** All server-side logic, APIs, and services supporting the game must fully adhere to all standards and requirements defined in Section 1 and Section 2 of this policy.
 - **Client-Side Sensitive Data Protection:** Any sensitive data stored on the client side (e.g., authentication tokens, payment information, personal data) must be protected using strong encryption and secure storage mechanisms.
 
@@ -120,7 +126,7 @@ For all software classified as games or entertainment products, the following se
 
 To ensure memory safety and prevent language-specific vulnerabilities natively, all development must adhere strictly to established secure coding standards for the respective language:
 
-- **C:** All C-based development, including the Camelot framework, must adhere to the [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard). Compliance is structurally enforced via the project `Makefile` and CI pipeline; no code shall be merged unless it compiles with `-Wall -Wextra -Wpedantic -Werror`, passes all unit/integration tests with Clang/GCC Sanitizers enabled (`-fsanitize=address,undefined,leak`), and satisfies [clang-tidy](https://clang.llvm.org/extra/clang-tidy/) static analysis using `cert-*` check profiles.
+- **C:** All C-based development, including the Camelot framework, must adhere to the [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard). Compliance is structurally enforced via the project `Makefile` and CI pipeline; no code shall be merged unless it compiles with `-Wall -Wextra -Wpedantic -Werror`, passes all unit/integration tests with Clang/GCC Sanitizers enabled (`-fsanitize=address,undefined,leak`), and satisfies [clang-tidy](https://clang.llvm.org/extra/clang-tidy/) static analysis using `cert-*` check profiles. To preserve performance, production release builds must exclude heavy dynamic sanitizers, instead enforcing native production mitigations: bounds checking (`-D_FORTIFY_SOURCE=2`), guaranteed pointer checks (`-fno-delete-null-pointer-checks`), and defined overflow parameters (`-fwrapv`).
 
 - **Java:** All JVM-based development must adhere to strict security boundaries. Find Sec Bugs is required for static bytecode analysis. Additionally, Jazzer is strictly mandated for fuzzing high-risk, untrusted data parsers (e.g., XML/RSS feeds).
 
@@ -153,7 +159,7 @@ Prior to integration, the full dependency tree must be queried via [deps.dev](ht
 To maintain a zero-cost, high-integrity CI/CD pipeline, the following open-source tools are mandated for all organizational repositories:
 
 - **SAST & Vulnerability Scanning:** [Trivy by Aqua Security](https://aquasecurity.github.io/trivy/) (Apache 2.0 License)
-- **DAST:** [ZAP by Checkmarx (Zed Attack Proxy)](https://www.zaproxy.org/) (Apache 2.0 License)
+- **DAST:** [ZAP by Checkmarx (Zed Attack Proxy)](https://www.zaproxy.org/) (Apache 2.0 License).
 - **Secrets Management:** [GitHub Actions Secrets](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions) (Native Platform Feature)
 - **Secret Scanning:** [Gitleaks](https://github.com/gitleaks/gitleaks) (MIT License)
 - **SBOM Generation:** [Syft by Anchore](https://github.com/anchore/syft) (Apache 2.0 License)
