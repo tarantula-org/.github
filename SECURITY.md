@@ -1,9 +1,3 @@
----
-layout: ../../layouts/MarkdownLayout.astro
-title: "Security Policies"
-lastEdited: "29/5/2026"
----
-
 # **1. Introduction and Scope**
 
 This document establishes the security governance policy for all operations within the organization.
